@@ -10,11 +10,13 @@ To develop a Django application to store and retrieve data from a database using
 ## DESIGN STEPS
 
 ### STEP 1:
+Clone the problem from github
 
 ### STEP 2:
+Create a new app
 
 ### STEP 3:
-
+Enter the code for admin.py and models.py
 
 ## PROGRAM
 
